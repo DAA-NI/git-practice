@@ -1,4 +1,0 @@
-DElab/
-flie_list.txt
-new_directory/
-transformers/
